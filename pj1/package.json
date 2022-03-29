@@ -1,12 +1,14 @@
 {
-  "name": "npmcompilesass",
+  "name": "npmcompilesass_minify-ccs_html",
   "scripts": {
     "compile-styles": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 styles.scss dist/styles.css",
     "css-minify": "cleancss --level 1 --format breaksWith=lf --source-map --source-map-inline-sources --output dist/styles.min.css dist/styles.css",
+    "html-minify": "html-minifier --input-dir src --output-dir dist --file-ext html --remove-comments --collapse-whitespace --minify-js true --minify-css true",
     "process-styles": "npm run compile-styles && npm run css-minify"
   },
   "devDependencies": {
     "clean-css-cli": "^4.3.0",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.12.0",
+    "html-minifier": "^4.0.0"
   }
 }

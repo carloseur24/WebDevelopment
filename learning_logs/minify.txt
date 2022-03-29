@@ -1,0 +1,8 @@
+// You can capture the output with the following:
+
+$ minify hello.js > hello.min.js
+
+$ minify hello.css > hello.min.css
+
+// to auto minify code 
+sass --watch sass/style.scss:css/style.min.css --style compressed

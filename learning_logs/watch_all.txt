@@ -1,0 +1,6 @@
+ * use this command to compile sass
+ 
+ sass --watch sass/style.scss:css/style.css
+
+// there here an amazin way to aunto compile and auto minify without any other plugin and all from terminal 
+sass --watch sass/style.scss:css/style.css --watch css/style.css:css/style.min.css --style compressed
