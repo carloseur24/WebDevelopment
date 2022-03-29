@@ -1,0 +1,22 @@
+// …or create a new repository on the command line
+echo "# carloseur24" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/carloseur24/WebDevelopment.git
+git push -u origin main
+
+
+// …or push an existing repository from the command line
+git remote add origin https://github.com/carloseur24/desarrolloWeb.git
+git branch -M main
+git push -u origin main
+
+how to identify youselft in the terminal to acces to git?
+
+git config --global use.email "you@example.com"
+git config --global use.name "your name"
+
+// This comand solve a problem witth any repository that don´t want to work to cause of replace it with a new key and a new sign-up.
+git push -f origin master

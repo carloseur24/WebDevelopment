@@ -1,0 +1,8 @@
+// to add and update info to git repository
+git add .
+git commit -m "any message"
+git push -u origin main
+
+//command to have acces to all permisions
+
+sudo chown -R klinker ~/personalpj

@@ -1,0 +1,9 @@
+// command to create a public key 
+
+ssh-keygen -t rsa -b 4096 -C "email de github"
+
+SHA256:F7t5T7HbbnOp5LRUbZZHf0Yx9N8+LHpmovsYrQkl3H0
+
+// personal toke to acces to acount from terminal
+
+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
