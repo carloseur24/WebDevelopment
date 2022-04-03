@@ -1,0 +1,63 @@
+[1mdiff --git a/pj1/node_modules/.bin/mkdirp b/pj1/node_modules/.bin/mkdirp[m
+[1mdeleted file mode 120000[m
+[1mindex 017896c..0000000[m
+[1m--- a/pj1/node_modules/.bin/mkdirp[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-../mkdirp/bin/cmd.js[m
+\ No newline at end of file[m
+[1mdiff --git a/pj1/node_modules/.bin/node-gyp b/pj1/node_modules/.bin/node-gyp[m
+[1mdeleted file mode 120000[m
+[1mindex 9b31a4f..0000000[m
+[1m--- a/pj1/node_modules/.bin/node-gyp[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-../node-gyp/bin/node-gyp.js[m
+\ No newline at end of file[m
+[1mdiff --git a/pj1/node_modules/.bin/node-sass b/pj1/node_modules/.bin/node-sass[m
+[1mdeleted file mode 120000[m
+[1mindex a4b0134..0000000[m
+[1m--- a/pj1/node_modules/.bin/node-sass[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-../node-sass/bin/node-sass[m
+\ No newline at end of file[m
+[1mdiff --git a/pj1/node_modules/.bin/nopt b/pj1/node_modules/.bin/nopt[m
+[1mdeleted file mode 120000[m
+[1mindex 6b6566e..0000000[m
+[1m--- a/pj1/node_modules/.bin/nopt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-../nopt/bin/nopt.js[m
+\ No newline at end of file[m
+[1mdiff --git a/pj1/node_modules/.bin/rimraf b/pj1/node_modules/.bin/rimraf[m
+[1mdeleted file mode 120000[m
+[1mindex 4cd49a4..0000000[m
+[1m--- a/pj1/node_modules/.bin/rimraf[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-../rimraf/bin.js[m
+\ No newline at end of file[m
+[1mdiff --git a/pj1/node_modules/.bin/sassgraph b/pj1/node_modules/.bin/sassgraph[m
+[1mdeleted file mode 120000[m
+[1mindex 901ada9..0000000[m
+[1m--- a/pj1/node_modules/.bin/sassgraph[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-../sass-graph/bin/sassgraph[m
+\ No newline at end of file[m
+[1mdiff --git a/pj1/node_modules/.bin/semver b/pj1/node_modules/.bin/semver[m
+[1mdeleted file mode 120000[m
+[1mindex 5aaadf4..0000000[m
+[1m--- a/pj1/node_modules/.bin/semver[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-../semver/bin/semver.js[m
+\ No newline at end of file[m
+[1mdiff --git a/pj1/script.js b/pj1/script.js[m
+[1mindex 94b544f..e69de29 100644[m
+[1m--- a/pj1/script.js[m
+[1m+++ b/pj1/script.js[m
+[36m@@ -1 +0,0 @@[m
+[31m-alert('hello it,s work');[m
+\ No newline at end of file[m
