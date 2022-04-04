@@ -1,6 +1,52 @@
-body{
+body {
+    margin: 3% 15%;
+    background: rgb(255, 255, 255);
+}
+
+h1 {
     text-align: center;
-    color: white;
-    background: black;
+    color: aliceblue;
+    font-size: 24px;
+    font-weight: lighter;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 10px 0;
+    background: rgb(102, 141, 247);
+    box-shadow: -4px 3px 10px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -4px 3px 10px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -4px 3px 10px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+span {
+    font-size: 32px;
+    font-weight: bolder;
+    margin-right: 5px;
+    text-transform: uppercase;
+}
+
+body, header {
+    padding-bottom: 15px;
+}
+
+h3,
+h2 {
+    margin: 0;
+    padding: 2% 0;
+    margin: 0 10px 0 10px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+header,
+#content {
+    text-align: left;
+    color: black;
+    border: 0.1px solid gray;
+}
+
+#content2 {
+    margin: 30px 0 30px 30px;
+    text-align: justify;
+    padding: 0 20px ;
+    margin-left: 0;
 }
