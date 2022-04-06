@@ -93,13 +93,14 @@ header,
     text-align: justify;
     padding: 14px;
     margin-left: 0;
-    border: 0.1px solid gray;
+    border-top: 0.1px solid gray;
     background: rgba(255, 255, 255, 0.986);
 }
 
 header,
-.content2 {
-    padding: 15px 50px 70px 50px;
+.content2,
+.footer {
+    padding: 15px 50px 50px 50px;
 }
 
 @media (min-width: 1024px) {
@@ -116,3 +117,12 @@ header,
     font-size: 10px;
 }
 } */
+
+.footer{
+    background-color: rgba(255, 255, 255, 0.986);
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
