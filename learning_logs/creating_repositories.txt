@@ -20,3 +20,7 @@ git config --global use.name "your name"
 
 // This comand solve a problem witth any repository that don´t want to work to cause of replace it with a new key and a new sign-up.
 git push -f origin master
+
+//Borra una branch local con 
+git branch -d <branch>
+//La opción -d eliminará la branch únicamente si esta ha sido empujada y fusionada con la branch remota. Utiliza -D si deseas forzar la eliminación de una branch, incluso si aún esta no ha sido empujada o fusionada aún.
